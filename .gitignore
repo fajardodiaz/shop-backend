@@ -62,4 +62,4 @@ typings/
 
 # Custom
 .idea/
-config/database.js
+.env
